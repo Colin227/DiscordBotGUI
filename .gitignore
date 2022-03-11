@@ -1,0 +1,7 @@
+__pycache__/
+img/
+thiswasworking/
+config.py
+*.bat
+
+discordbot.bat*
